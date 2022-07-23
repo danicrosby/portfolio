@@ -1,0 +1,31 @@
+.intro-container {
+    border: 1px solid blue;
+    padding: 5rem;
+    margin: 2rem;
+}
+
+.tech-container {
+    border: 1px solid darkmagenta;
+}
+
+.left-container {
+    border: 1px solid red;
+    padding: 5rem;
+    margin: 2rem;
+}
+
+.right-container {
+    border: 1px solid green;
+    padding: 5rem;
+    margin: 2rem;
+}
+
+img {
+    width: 18rem;
+}
+
+.bottom-nav {
+    background-color: black;
+    color: white;
+    padding: 2rem;
+}
